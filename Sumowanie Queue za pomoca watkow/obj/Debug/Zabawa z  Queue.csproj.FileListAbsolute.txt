@@ -1,0 +1,7 @@
+c:\users\becia\source\repos\Zabawa z  Queue\Zabawa z  Queue\bin\Debug\Zabawa z  Queue.exe.config
+c:\users\becia\source\repos\Zabawa z  Queue\Zabawa z  Queue\bin\Debug\Zabawa z  Queue.exe
+c:\users\becia\source\repos\Zabawa z  Queue\Zabawa z  Queue\bin\Debug\Zabawa z  Queue.pdb
+c:\users\becia\source\repos\Zabawa z  Queue\Zabawa z  Queue\obj\Debug\Zabawa z  Queue.csprojResolveAssemblyReference.cache
+c:\users\becia\source\repos\Zabawa z  Queue\Zabawa z  Queue\obj\Debug\Zabawa z  Queue.csproj.CoreCompileInputs.cache
+c:\users\becia\source\repos\Zabawa z  Queue\Zabawa z  Queue\obj\Debug\Zabawa z  Queue.exe
+c:\users\becia\source\repos\Zabawa z  Queue\Zabawa z  Queue\obj\Debug\Zabawa z  Queue.pdb

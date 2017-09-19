@@ -1,0 +1,14 @@
+c:\users\becia\source\repos\MultiThread vs Single\MultiThread vs Single\bin\Debug\MultiThread vs Single.exe.config
+c:\users\becia\source\repos\MultiThread vs Single\MultiThread vs Single\bin\Debug\MultiThread vs Single.exe
+c:\users\becia\source\repos\MultiThread vs Single\MultiThread vs Single\bin\Debug\MultiThread vs Single.pdb
+c:\users\becia\source\repos\MultiThread vs Single\MultiThread vs Single\obj\Debug\MultiThread vs Single.csprojResolveAssemblyReference.cache
+c:\users\becia\source\repos\MultiThread vs Single\MultiThread vs Single\obj\Debug\MultiThread vs Single.csproj.CoreCompileInputs.cache
+c:\users\becia\source\repos\MultiThread vs Single\MultiThread vs Single\obj\Debug\MultiThread vs Single.exe
+c:\users\becia\source\repos\MultiThread vs Single\MultiThread vs Single\obj\Debug\MultiThread vs Single.pdb
+D:\Pulpit\C#\Koncowy\MultiThread vs Single\bin\Debug\MultiThread vs Single.exe.config
+D:\Pulpit\C#\Koncowy\MultiThread vs Single\bin\Debug\MultiThread vs Single.exe
+D:\Pulpit\C#\Koncowy\MultiThread vs Single\bin\Debug\MultiThread vs Single.pdb
+D:\Pulpit\C#\Koncowy\MultiThread vs Single\obj\Debug\MultiThread vs Single.csprojResolveAssemblyReference.cache
+D:\Pulpit\C#\Koncowy\MultiThread vs Single\obj\Debug\MultiThread vs Single.csproj.CoreCompileInputs.cache
+D:\Pulpit\C#\Koncowy\MultiThread vs Single\obj\Debug\MultiThread vs Single.exe
+D:\Pulpit\C#\Koncowy\MultiThread vs Single\obj\Debug\MultiThread vs Single.pdb

@@ -1,0 +1,7 @@
+C:\Users\Becia\source\repos\ThreadSimulation!\ThreadSimulation!\obj\Debug\ThreadSimulation!.csprojResolveAssemblyReference.cache
+C:\Users\Becia\source\repos\ThreadSimulation!\ThreadSimulation!\obj\Debug\ThreadSimulation!.csproj.CoreCompileInputs.cache
+C:\Users\Becia\source\repos\ThreadSimulation!\ThreadSimulation!\bin\Debug\ThreadSimulation!.exe.config
+C:\Users\Becia\source\repos\ThreadSimulation!\ThreadSimulation!\bin\Debug\ThreadSimulation!.exe
+C:\Users\Becia\source\repos\ThreadSimulation!\ThreadSimulation!\bin\Debug\ThreadSimulation!.pdb
+C:\Users\Becia\source\repos\ThreadSimulation!\ThreadSimulation!\obj\Debug\ThreadSimulation!.exe
+C:\Users\Becia\source\repos\ThreadSimulation!\ThreadSimulation!\obj\Debug\ThreadSimulation!.pdb
